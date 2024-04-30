@@ -19,11 +19,11 @@ module.exports = {
     daisyui: {
         themes: [
             {
-                lofi: {
-                    ...require('daisyui/src/theming/themes')['lofi'],
-                    primary: '#2bdcd2',
+                corporate: {
+                    ...require('daisyui/src/theming/themes')['corporate'],
+                    primary: '#352bdc',
                     'primary-content': '#171717',
-                    secondary: '#016968',
+                    secondary: '#4385de',
                     info: '#2bdcd2',
                     'info-content': '#171717',
                 }
