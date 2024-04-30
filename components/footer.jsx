@@ -4,8 +4,8 @@ export function Footer() {
     return (
         <footer className="pt-16 pb-12 sm:pt-24 sm:pb-16">
             <p className="text-sm">
-                <Link href="https://docs.netlify.com/frameworks/next-js/overview/" className="underline transition decoration-dashed text-primary underline-offset-8 hover:opacity-80">
-                    Next.js on Netlify
+                <Link href="https://www.linkedin.com/in/alex-tykocki/" className="underline transition decoration-dashed text-primary underline-offset-8 hover:opacity-80">
+                    Alex Tykocki LinkedIn page
                 </Link>
             </p>
         </footer>
