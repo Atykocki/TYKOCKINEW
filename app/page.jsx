@@ -36,7 +36,7 @@ export default function Page() {
                 <p className="text-lg">I am just getting started with understanding Next.js and Netlify.</p>
                 <Link
                     href="https://www.linkedin.com/in/alex-tykocki/"
-                    className="btn btn-lg btn-primary sm:btn-wide"
+                    className="btn btn-lg btn-primary sm:btn-wide text-white rounded"
                 >
                     Check out my LinkedIn
                 </Link>
