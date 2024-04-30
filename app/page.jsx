@@ -32,7 +32,7 @@ export default function Page() {
         <main className="flex flex-col gap-8 sm:gap-16">
             <section className="flex flex-col items-start gap-3 sm:gap-4">
                 <ContextAlert />
-                <h1 className="mb-0">Alex Tykocki's attempt at learning Next.js</h1>
+                <h1 className="mb-0">Alex Tykockis attempt at learning Next.js</h1>
                 <p className="text-lg">I am just getting started with Next.js and Netlify.</p>
                 <Link
                     href="https://docs.netlify.com/frameworks/next-js/overview/"
